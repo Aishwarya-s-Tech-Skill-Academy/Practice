@@ -22,7 +22,7 @@ N/A
 
 ## Information
 
-## ![Information | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/Information.PNG)
+## ![Information | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/Information.png)
 
 ## What are we doing today?
 
@@ -45,93 +45,93 @@ N/A
 
 ## 1. Invite members into organization
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/1_1.PNG)
+![1_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/1_1.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/1_2.PNG)
+![1_2| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/1_2.png)
 
 ## 2. Member Privileges - Base permissions
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/2_1.PNG)
+![2_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/2_1.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/2_2.PNG)
+![2_2| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/2_2.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/2_3.PNG)
+![2_3| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/2_3.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/2_4.PNG)
+![2_4| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/2_4.png)
 
 ## 3. Create a new repository
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/3_1.PNG)
+![3_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/3_1.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/3_2.PNG)
+![3_2| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/3_2.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/3_3.PNG)
+![3_3| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/3_3.png)
 
 ## 4. Add people from our organization
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/4_1.PNG)
+![4_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/4_1.png)
 
 ## 5. Set Branch protection rules
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/5_1.PNG)
+![5_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/5_1.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/5_2.PNG)
+![5_2| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/5_2.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/5_3.PNG)
+![5_3| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/5_3.png)
 
 ## 6. Create a new project using board in the organization
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/6_1.PNG)
+![6_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/6_1.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/6_2.PNG)
+![6_2| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/6_2.png)
 
 ## 7. Add a new item in project
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/7_1.PNG)
+![7_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/7_1.png)
 
 ## 8. Move the item to "in progress"
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/8_1.PNG)
+![8_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/8_1.png)
 
 ## 9. Create a new branch in the new repository
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/9_1.PNG)
+![9_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/9_1.png)
 
 ## 10. Clone the new repository using GitHub for desktop
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/10_1.PNG))
+![10_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/10_1.png))
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/10_2.PNG)
+![10_2| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/10_2.png)
 
 ## 11. Create a new feature branch and select current branch as new feature branch
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/11_1.PNG)
+![11_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/11_1.png)
 
 ## 12. Open the repository in VS Code and change the readme file
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/12_1.PNG)
+![12_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/12_1.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/12_2.PNG)
+![12_2| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/12_2.png)
 
 ## 13. Commit the changes from GitHub for desktop
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/13_1.PNG)
+![13_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/13_1.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/12_2.PNG)
+![13_2| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/12_2.png)
 
 ## 14. Create a Pull Request to merge the changes
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_1.PNG)
+![14_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_1.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_2.PNG)
+![14_2| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_2.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_3.PNG)
+![14_3| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_3.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_4.PNG)
+![14_4| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_4.png)
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_5.PNG)
+![14_5| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/14_5.png)
 
 ## 15. Delete the branch after merging
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/15_1.PNG)
+![15_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/15_1.png)
 
 
-![Microservices | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/16_1.PNG)
+![16_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/16_1.png)
