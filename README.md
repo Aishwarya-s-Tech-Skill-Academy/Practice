@@ -16,13 +16,6 @@ N/A
 
 > GitHub Desktop, Visual Studio Code
 
-## Languages:
-
-N/A
-
-## Information
-
-## ![Information | 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/Information.png)
 
 ## What are we doing today?
 
@@ -44,6 +37,7 @@ N/A
 
 
 ## 1. Invite members into organization
+Go to your organization &rarr People &rarr; Invite Member -> search user by entering their username, full name or email address -> Select Role in the organization as 'Member' -> Send invitation
 
 ![1_1| 100x100](https://github.com/Aishwarya-s-Tech-Skill-Academy/Practice/blob/main/Images/1_1.png)
 
