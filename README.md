@@ -10,7 +10,9 @@ Youtube URL:
 
 ## Prerequisites:
 
-N/A
+- GitHub Account
+- Github Desktop installed on your system
+- Visual Studio Code installed on your system
 
 ## Software/Tools
 
