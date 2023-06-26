@@ -1,6 +1,6 @@
 # Introduction to Microservices
 
-### Date Time: 29-July-2023 at 09:00 AM IST
+### Date Time: 29-June-2023 at 09:00 AM IST
 
 Event URL:
 
